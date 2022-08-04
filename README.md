@@ -29,11 +29,11 @@ Do this for all paths that reference where your resulting export files will be s
 ### GetAuthorName.ipynb
 Pulls the relevant first author name from Pubmed for each PMID.
 
-### JournalNameFromPMID
+### JournalNameFromPMID.ipynb
 Pulls the relevant Journal that each PMID was published in.
 
-#### PaperTitleFromPMID
+#### PaperTitleFromPMID.ipynb
 Pulls the title of each Paper from the given PMID.
 
-### PublishDateFromPMID
+### PublishDateFromPMID.ipynb
 Pulls the date that each paper was published using the given PMID.
