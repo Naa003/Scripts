@@ -7,10 +7,10 @@ To setup these scripts you must have Jupyter Notebook installed. [Anaconda Navig
 
 Make sure to copy the scripts into your 
 ### Your jupyter notebook must have these packages:
-* BeautifulSoup 4
-* Pandas
-* numpy
-* lxml
+* [BeautifulSoup 4](https://www.geeksforgeeks.org/beautifulsoup-installation-python/)
+* [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+* [numpy](https://numpy.org/install/)
+* [lxml](https://pypi.org/project/lxml/)
 
 If you do not have any of these packages then you must install them before running the scripts.
 ### Get an API key from Pubmed. Read ]"How to obtain an API Key Through an NCBI Account"](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us).
