@@ -13,7 +13,7 @@ Make sure to copy the scripts into your
 * [lxml](https://pypi.org/project/lxml/)
 
 If you do not have any of these packages then you must install them before running the scripts.
-### Get an API key from Pubmed. Read ]"How to obtain an API Key Through an NCBI Account"](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us).
+### Get an API key from Pubmed. Read ["How to obtain an API Key Through an NCBI Account"](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us).
 
 ### Editing the scripts
 You must input your API key into the ```api_key = '&exampleAPiKey'``` variable to gain access to Pubmed API.
