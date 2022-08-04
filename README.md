@@ -3,7 +3,7 @@
 These scripts are used to pull information from Pubmed such as Journal Name, First Author Name, Date Paper was published and Paper Title.
 
 ## Setup
-To setup these scripts you must have Jupyter Notebook installed. Anaconda Navigator is highly recommended for Jupyter Notebook installation but not required.
+To setup these scripts you must have Jupyter Notebook installed. [Anaconda Navigator](https://docs.anaconda.com/anaconda/install/) is highly recommended for Jupyter Notebook installation but not required.
 ### Your jupyter notebook must have these packages:
 * BeautifulSoup 4
 * Pandas
