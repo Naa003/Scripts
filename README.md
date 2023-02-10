@@ -41,3 +41,6 @@ Pulls the title of each Paper from the given PMID.
 
 ### PublishDateFromPMID.ipynb
 Pulls the date that each paper was published using the given PMID.
+
+### BiolegendWebIDsRecent.ipynb
+User provides Biolegend Catalog Numbers and is returned Biolegend WebIDs necessary for their data export.
